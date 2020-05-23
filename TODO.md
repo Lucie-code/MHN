@@ -65,37 +65,54 @@ https://litebreeze.com/software-development/multilingual-website-tld-vs-subfolde
 ### CLICKABLE NUMBERPHONE
 
 https://www.markhendriksen.com/how-to-make-a-phone-number-clickable-in-divi/<br/>
->To make a number phone clickable you just have to append "tel:" to the number phone using a href tag and the work is done.
->Designer have then to choose the design for the clickable phone number + where they want to place it<br/>
-<br/><br/>
 
+> To make a number phone clickable you just have to append "tel:" to the number phone using a href tag and the work is done.<br/>
+> Designer have then to choose the design for the clickable phone number + where they want to place it<br/>
+
+<br/><br/><br/>
 # 3.CODE
+
 ### BUBBLE ANIMATION
->Will make this one to start with, as it's an easy one using little CSS & JS skill.<br/>
+
+> Will make this one to start with, as it's an easy one using little CSS & JS skill.<br/>
 <br/>
+
 ### ANCHORS
->When the website will be done, ask them what they exactly want as anchor, and do it + dev a little box where all anchor are linked so the browsing is smooth.<br/>
->Here is a cool and smooth example<br/>
-https://forum.manjaro.org/t/unrecognized-archive-format-pour-fichier-pkg-tar-zst/120547
+
+> When the website will be done, ask them what they exactly want as anchor, and do it + dev a little box where all anchor are linked so the browsing is smooth.<br/>
+> Here is a cool and smooth example<br/>
+
+https://forum.manjaro.org/t/unrecognized-archive-format-pour-fichier-pkg-tar-zst/120547<br/>
+
 <br/>
+
 ### PRELOADER
->If website is way too big, we'll have to use a preloader. It can be done both using plugin and hardcode ( I could also mix these two as well )<br/>
+
+> If website is way too big, we'll have to use a preloader. It can be done both using plugin and hardcode ( I could also mix these two as well )<br/>
  
 <br/><br/>
 
 # 4.LATER
-### SITEMAPS 
+
+### SITEMAPS
+
 https://kinsta.com/fr/blog/sitemap-wordpress/<br/>
->It's all about files like robots.txt & sitemaps.xml<br/>
+
+> It's all about files like robots.txt & sitemaps.xml<br/>
 There are free plugins around able to do the works but it can be done manually ( until the website is made of multiples links )
 <br/>
+
 ### GOOGLE ADS
+
 https://blog.hubspot.fr/marketing/guide-complet-google-ads<br/>
 https://www.digitaweb.com/blog/configurer-campagne-adwords<br/>
+
 >Google Ads is pretty easy to configure and to understand, you only have to choose the right settings ( easy thing ) and then wait for people to click on it etc<br/>
 >Another thing that would team with Google Ads is SEO<br/>
 <br/>
+
 ### SEO
+
 https://fr.wikipedia.org/wiki/Search_engine_marketing<br/>
 https://fr.wikipedia.org/wiki/Bombardement_Google<br/>
 https://fr.wikipedia.org/wiki/%C3%89l%C3%A9ment_meta#Utilisation_dans_la_recherche_d'information<br/>
@@ -103,7 +120,9 @@ https://fr.wikipedia.org/wiki/Nofollow<br/>
 https://fr.wikipedia.org/wiki/Social_media_optimization<br/>
 https://fr.wikipedia.org/wiki/Spamdexing<br/>
 https://fr.wikipedia.org/wiki/Netlinking<br/>
+
 >These are the core ways of optimizing the SEO, but be aware of Spamdexing, as Google could do some "blacklist" thing to a website doing so<br/>
+
 https://astucesdivi.com/divi-seo-friendly/<br/>
 
 ### WEBSITE SPEED
