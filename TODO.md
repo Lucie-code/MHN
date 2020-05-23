@@ -16,7 +16,6 @@ This way, it'll be easy to make & reuse backup but also to encrypt everything co
 https://astucesdivi.com/menu-sticky-on-scroll-divi/<br/>
 > I cannot do anything until Lucie&Syl20 are OK about the style<br/>
 > Pretty easy to implement it, just have to play with some DIVI settings + add some JS evenlistener + styling with CSS
-<br/>
 ### SEARCH BAR
 https://www.elegantthemes.com/documentation/divi/search/<br/>
 https://www.divi-community.fr/en/tutoriels-divi/creer-page-recherche-personnalisee-avec-theme-builder-divi/<br/>
