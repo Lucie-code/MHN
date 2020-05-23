@@ -20,13 +20,17 @@ https://astucesdivi.com/menu-sticky-on-scroll-divi/<br/>
 https://www.elegantthemes.com/documentation/divi/search/<br/>
 https://www.divi-community.fr/en/tutoriels-divi/creer-page-recherche-personnalisee-avec-theme-builder-divi/<br/>
 >DIVI search bar is enough for what we need to do on the website + We can place anywhere like in the middle of a webpage or in the header or in the footer<br/>
+
 https://www.elegantthemes.com/blog/divi-resources/how-to-add-a-search-field-to-divis-secondary-menu<br/>
 https://www.youtube.com/watch?v=ImUGrr6targ<br/>
 https://divisoup.com/q19-replace-the-divi-search-button-with-an-icon/<br/>
+
 >We can also do it in pure code, we just need to inject the php code to get the search form and then play with some CSS so it looks like something ok<br/>
 >Now free to the designer to choose how he wants it, what would be the best between hardcoded & already-present things<br/>
 <br/>
+
 ### CONTACT FORM
+
 https://fr.wordpress.org/plugins/contact-form-7/<br/>
 https://wpmarmite.com/contact-form-7/<br/>
 >Useless to do this the hardcoded way as we don't have enough time to do such a thing, so using CF7 is way more easier + the plugin is really good<br/>
@@ -34,22 +38,32 @@ https://wpmarmite.com/contact-form-7/<br/>
 >Don't need coding skill to add boxes as there is a builder already able to do such a thing<br/>
 >As for the design, I'll let the Designers do the works ( I suck at it )<br/>
 <br/>
+
 ### MULTILINGUAGE
+
 https://wp-ninja.fr/comment-ajouter-google-traduction-sur-wordpress/<br/>
 >Following this tutorial, you'll use GTranslate and you'll be able to translate the whole website using Google Translate. (drawbacks: some mispelling)<br/>
+
 https://wordpress.org/plugins/weglot/<br/>
 https://wordpress.org/plugins/translatepress-multilingual/<br/>
 https://wordpress.org/plugins/polylang/<br/>
+
 >That is the best way to make a full translation of a website, using one of these plugins. The first one is known to be the "best" as it translates automatically + there is a manual translation manager. The last one is known to break the website so >let's be aware of this one.<br/>
+
 https://wordpress.com/support/domains/map-subdomain/<br/>
+
 >To do the multilingual website without using plugins, we'd have to do severals change in settings and map subdomains
 >Using subdomains and some programming skills, the website could detect what language is default on user's computer and then switch to /fr or /en or /es or /it etc. TLD, SUBS & Folders<br/>
+
 https://litebreeze.com/software-development/multilingual-website-tld-vs-subfolder-vs-subdomain/#introduction-to-structuring-multilingual-content<br/>
+
 >This latter one is an explanation about what are the differences between those one<br/>
 >But it would be wayyyyyyy easier to do such a thing on a VPS than doing it on a damn WP stored on a host<br/>
 >Using a VPS, I just need to have multiple subfolders for each webpage & then append 3 lines to .htaccess and the work is done.<br/>
 <br/>
+
 ### CLICKABLE NUMBERPHONE
+
 https://www.markhendriksen.com/how-to-make-a-phone-number-clickable-in-divi/<br/>
 >To make a number phone clickable you just have to append "tel:" to the number phone using a href tag and the work is done.
 >Designer have then to choose the design for the clickable phone number + where they want to place it<br/>
