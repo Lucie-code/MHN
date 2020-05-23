@@ -1,20 +1,18 @@
-#### ORGANIZATION
-=================
-> CSS GLOBAL
-		> When CSS is added to DIVI or WP, add it directly or change things in theme's files so it won't look as "newbie" code when ctrl+I
+# ORGANIZATION
+
+## CSS GLOBAL
+When CSS is added to DIVI or WP, add it directly or change things in theme's files so it won't look as "newbie" code when ctrl+I
 	
-> ANIMATION
-		> I've got the final result explained by schems, vids, draws. Free to myself to do the work the best way ( check the "CODE" part )
+## ANIMATION
+I've got the final result explained by schems, vids, draws. Free to myself to do the work the best way ( check the "CODE" part )
 
-> BACKUPS
-		> Backup can be done with Updraft using dropbox, FTP or a lot of other things.
-		> The best thing mixing usefull & security would be to be on a VPS and the server does an automatic backup every X days and store it on another server (FTP) only there to be a backup of everything. This way, it'll be easy to make & reuse backup but also to encrypt everything coming from and going to the latter server.
-
-
+## BACKUPS
+Backup can be done with Updraft using dropbox, FTP or a lot of other things.
+The best thing mixing usefull & security would be to be on a VPS and the server does an automatic backup every X days and store it on another server (FTP) only there to be a backup of everything. This way, it'll be easy to make & reuse backup but also to encrypt everything coming from and going to the latter server.
 
 
-#### WORDPRESS
-==============
+# WORDPRESS
+
 
 > STICKY MENU
 	https://astucesdivi.com/menu-sticky-on-scroll-divi/
@@ -60,7 +58,7 @@
 		> Designer have then to choose the design for the clickable phone number + where they want to place it
 
 
-#### CODE
+# CODE
 =========
 
 > BUBBLE ANIMATION
@@ -77,7 +75,7 @@
  
  
 
-#### LATER
+# LATER
 ==========
 
 > SITEMAPS 
