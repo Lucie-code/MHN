@@ -12,7 +12,6 @@ This way, it'll be easy to make & reuse backup but also to encrypt everything co
 
 <br/><br/><br/>
 # 2.WORDPRESS
-<br/>
 ### STICKY MENU
 https://astucesdivi.com/menu-sticky-on-scroll-divi/<br/>
 I cannot do anything until Lucie&Syl20 are OK about the style<br/>
@@ -58,7 +57,6 @@ Designer have then to choose the design for the clickable phone number + where t
 <br/><br/>
 
 # 3.CODE
-<br/>
 ### BUBBLE ANIMATION
 Will make this one to start with, as it's an easy one using little CSS & JS skill.<br/>
 <br/>
@@ -73,7 +71,6 @@ If website is way too big, we'll have to use a preloader. It can be done both us
 <br/><br/>
 
 # 4.LATER
-<br/>
 ### SITEMAPS 
 https://kinsta.com/fr/blog/sitemap-wordpress/<br/>
 It's all about files like robots.txt & sitemaps.xml<br/>
