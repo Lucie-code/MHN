@@ -1,5 +1,4 @@
 # ORGANIZATION
-<br/>
 ### CSS GLOBAL
 When CSS is added to DIVI or WP, add it directly or change things in theme's files so it won't look as "newbie" code when ctrl+I
 <br/>
